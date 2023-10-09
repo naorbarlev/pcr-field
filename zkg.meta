@@ -1,9 +1,9 @@
 [package]
 script_dir = scripts
 test_command = cd testing && btest -c btest.cfg
-summary = TODO: A summary of pcr-field in one line
-description = TODO: A more detailed description of pcr-field.
-	It can span multiple lines, with this indentation.
+summary = Adds to conn.log PCR field
+description = Can be used for data exfil detection, based on
+	Producer-Consumer-Ratio.
 depends = 
 	zeek >=4.0.0
 

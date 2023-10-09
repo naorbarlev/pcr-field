@@ -1,4 +1,4 @@
 pcr-field
 =================================
 
-TODO: tell people what your package does!
+Can be used for data exfil detection, based on Producer-Consumer-Ratio.
